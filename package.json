@@ -1,0 +1,23 @@
+{
+  "name": "top-js-algorithms-interviews",
+  "version": "1.0.0",
+  "description": "Content from the [Top 10 Javascript Algorithms to Prepare for Coding Interviews](https://www.youtube.com/watch?v=ufBbWIyKY2E) Course by CodingMoney",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhnascimento/top-js-algorithms-interviews.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhnascimento/top-js-algorithms-interviews/issues"
+  },
+  "homepage": "https://github.com/dhnascimento/top-js-algorithms-interviews#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
